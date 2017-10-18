@@ -9,6 +9,7 @@ de unitati de hrana.
 Dupa ce a mincat de minim 10 ori, o celula se va inmulti inainte sa i se faca din nou foame. Exista doua tipuri de celule: sexuate
 si asexuate. Celulele asexuate se inmultesc prin diviziune, rezultind doua celule flaminde.
 
-Cele sexuate se inmultesc doar daca gasesc o alta celula ce cauta sa se reproduca iar atunci rezulta o a treia celula, initial infometata.
+Cele sexuate se inmultesc doar daca gasesc o alta celula ce cauta sa se reproduca iar atunci rezulta o a treia celula, initial
+infometata.
 
 In simulare, celulele vor fi reprezentate de fire de executie distincte.
